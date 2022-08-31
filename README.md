@@ -1,3 +1,4 @@
+Jo was here
 # Rails Practice Challenge - Students
 
 ## Setup
